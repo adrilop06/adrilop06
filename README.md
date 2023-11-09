@@ -1,19 +1,15 @@
-<p align="center">
+<p align="center" marginTop:"-250px">
   <a href="https://github.com/adrilop06">
-    <img src="https://www.canva.com/design/DAFzqTcp9iw/watch" alt="Adrián López" /></a>
+    <img src="https://github.com/adrilop06/adrilop06/assets/61051823/0e674348-a1d7-4d1e-868c-db6f32b325a4" height="auto" width="100%"  alt="Adrián López" /></a>
 </p>
 
-<!--
-**adrilop06/adrilop06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="250" width="375" alt="" src="https://github.com/adrilop06/adrilop06/assets/61051823/d9c7294b-c990-4b5c-a198-c90968c74554" />
+<h2>💬 About me</h2>
+<p>
+  Hello everyone!👋 I am Adrián López, originally from Jerez de la Frontera, and I am a full stack web developer. My passion for technology is combined with a deep love for web design and graphic design. In my world, creativity and functionality converge to bring amazing digital experiences to life. Welcome to my digital universe!
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
